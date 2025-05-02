@@ -1,0 +1,10 @@
+Getting started with vite:
+ - cd ../ into the github folder
+ - npm create vite@latest
+ - Framework = Vanilla
+ - Varient = Typescript
+ - cd [project name]
+ - npm i
+ - now you can run it
+
+ 
